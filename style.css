@@ -1,0 +1,22 @@
+
+.logo > img {
+    height: 45px;
+}
+.jumbotron {
+    padding-top: 6rem;
+    background-color:#DDE6ED ;
+
+}
+
+#Projects {
+    background-color: #DDE6ED;
+}
+
+#footer > p {
+    background-color: #27374D;
+    color: #DDE6ED;
+}
+
+section {
+    padding-top: 5rem;
+}
